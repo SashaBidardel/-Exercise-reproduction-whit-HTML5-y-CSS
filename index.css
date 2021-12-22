@@ -1,0 +1,31 @@
+
+body{
+    background-color: rgb(218, 214, 214);
+    max-width: 780px;
+    min-width: 489px;
+   
+    display:flex;
+    flex-direction: column;
+    margin: auto;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 300%;
+   
+}
+.html5{
+    display: flex;
+    justify-content:flex-start;
+    background-color: rgb(114, 112, 112);
+    color: white;
+    font-size: 200%;
+}
+.center{
+    display:flex;
+    font-size:medium;
+}
+.size{
+    width: 20%;
+}
+
